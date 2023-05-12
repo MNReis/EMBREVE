@@ -5,7 +5,7 @@ body{
 .intro{
   color: rgba(240, 255, 255, 0.667);
   font-size: 20px;
-  text-align: center;
+  text-align: center;text-align: center;
   margin-top: 300px;
   margin-bottom: 20px;
 }
@@ -24,7 +24,7 @@ font-size: 20px;
 }
 .container {
 margin-left: 370px;
-text-align: center;
+position : fixed;
 }
 
 
